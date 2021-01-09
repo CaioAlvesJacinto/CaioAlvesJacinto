@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá, mundo! 👋
 
 Meu nome é Caio Alves Jacinto e eu sou estudante de Programação em Java e Python! Atualmente, estou estagiando na empresa de recolocação profissional Recolokey - Coaching & Carreiras e, trabalho com a automação e desenvolvimento de processos.
 
