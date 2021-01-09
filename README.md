@@ -1,10 +1,11 @@
 ### Hi there 👋
 
-![Caio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CaioAlvesJacinto&show_icons=true&theme=radical)
+Meu nome é Caio Alves Jacinto e eu sou estudante de Programação em Java e Python! Atualmente, estou estagiando na empresa de recolocação profissional Recolokey - Coaching & Carreiras e, trabalho com a automação e desenvolvimento de processos.
 
+Me contate para mais informações!
+[LinkedIn](https://www.linkedin.com/in/caioalvesjacinto/)
 
-
-
+![Caio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CaioAlvesJacinto&show_icons=true&theme=dracula)
 
 <!--
 **CaioAlvesJacinto/CaioAlvesJacinto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
