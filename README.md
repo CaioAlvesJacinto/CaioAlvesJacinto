@@ -5,6 +5,8 @@ Meu nome é Caio Alves Jacinto e eu sou estudante de Programação em Java e Pyt
 Me contate para mais informações!
 [LinkedIn](https://www.linkedin.com/in/caioalvesjacinto/)
 
+![Welcome](/github-profile-readme.png?raw=true)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaioAlvesJacinto)](https://github.com/CaioAlvesJacinto/github-readme-stats)
 
 
