@@ -1,11 +1,11 @@
-### Hello, humans! 👋
+### 👽Hello, humans! 🖖
 
 ![Welcome](/profile-readme-github.png?raw=true)
 
-## About me
+## 🎥 About me 
 My name is Caio Alves Jacinto and I'm student of Programming in Java and Python! Currently, I'm interning in a company of the professional replacement Recolokey - Coaching & Carreiras and, I work with automation and process development.
 
-## Reach me
+## 🔔 Reach me
 [![Linkedin](https://img.shields.io/badge/-Caio%20Alves%20Jacinto-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/caioalvesjacinto/)](https://www.linkedin.com/in/caioalvesjacinto/)
 [![Github](https://img.shields.io/github/followers/CaioAlvesJacinto?label=Follow%20Me%21&style=social)](https://github.com/CaioAlvesJacinto)
 [![Instagram](https://img.shields.io/badge/-@caio.alves.17-red?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/caio.alves.17/)](https://www.instagram.com/caio.alves.17/)
@@ -14,7 +14,7 @@ My name is Caio Alves Jacinto and I'm student of Programming in Java and Python!
 
 
 
-## Interesting stats
+## 📊 Interesting stats
 ![Caio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CaioAlvesJacinto&show_icons=true&theme=dracula)
 
 ![Profile views](https://gpvc.arturio.dev/CaioAlvesJacinto)
