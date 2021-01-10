@@ -1,16 +1,27 @@
-### Olá, mundo! 👋
+![Welcome](/profile-readme-github.png?raw=true)
 
-Meu nome é Caio Alves Jacinto e eu sou estudante de Programação em Java e Python! Atualmente, estou estagiando na empresa de recolocação profissional Recolokey - Coaching & Carreiras e, trabalho com a automação e desenvolvimento de processos.
+### Hello, humans! 👋
 
-Me contate para mais informações!
-[LinkedIn](https://www.linkedin.com/in/caioalvesjacinto/)
+My name is Caio Alves Jacinto and I'm student of Programming in Java and Python! Currently, I'm interning in a company of the professional replacement Recolokey - Coaching & Carreiras and, I work with automation and process development.
 
-![Welcome](/github-profile-readme.png?raw=true)
+## Reach me
+[![Linkedin](https://img.shields.io/badge/-Caio%20Alves%20Jacinto-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/caioalvesjacinto/)](https://www.linkedin.com/in/caioalvesjacinto/)
+[![Github](https://img.shields.io/github/followers/CaioAlvesJacinto?label=Follow%20Me%21&style=social)](https://github.com/CaioAlvesJacinto)
+[![Instagram](https://img.shields.io/badge/-@caio.alves.17-red?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/caio.alves.17/)](https://www.instagram.com/caio.alves.17/)
+[![Mail](https://img.shields.io/badge/-caio.alves.1702@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=https://www.linkedin.com/in/caioalvesjacinto/)](mailto:caio.alves.1702@gmail.com)
+
+
+
+
+
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaioAlvesJacinto)](https://github.com/CaioAlvesJacinto/github-readme-stats)
 
 
 ![Caio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CaioAlvesJacinto&show_icons=true&theme=dracula)
+
+![Profile views](https://gpvc.arturio.dev/CaioAlvesJacinto)
 
 <!--
 **CaioAlvesJacinto/CaioAlvesJacinto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
