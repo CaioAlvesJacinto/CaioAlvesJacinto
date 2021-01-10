@@ -1,4 +1,4 @@
-### 👽Hello, humans! 🖖
+### 👽 Hello, humans! 🖖
 
 ![Welcome](/profile-readme-github.png?raw=true)
 
@@ -11,13 +11,35 @@ My name is Caio Alves Jacinto and I'm student of Programming in Java and Python!
 [![Instagram](https://img.shields.io/badge/-@caio.alves.17-red?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/caio.alves.17/)](https://www.instagram.com/caio.alves.17/)
 [![Mail](https://img.shields.io/badge/-caio.alves.1702@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=https://www.linkedin.com/in/caioalvesjacinto/)](mailto:caio.alves.1702@gmail.com)
 
+## 🎓 What I know
+- **Competitive Programming**
+	- Some Python 🐍
+	- Some Java ☕
+- **Database**
+	- MySQL 🌐
+	- SQL Server ✅
+- **Microsoft Office 365**
+	- Excel, Word, Power Point 💚
+	- SharePoint, Outlook, Power Automate, Power Apps, One Note 💲
+- **API's**
+	- Wassenger 🔥
+	- ChatApi 💧
+  - JSON ❄
+- **Business**
+	- Digital Marketing 🚀
+	- Sales 🏁
 
-
+## 🤔 What I want to do next 
+- Become a CTO (Chief Technology Officer) 🛸
+- Leverage my company 🤖
+- Dive into AI and ML 🧠
 
 ## 📊 Interesting stats
 ![Caio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CaioAlvesJacinto&show_icons=true&theme=dracula)
 
-![Profile views](https://gpvc.arturio.dev/CaioAlvesJacinto)
+Thank u for your visit! 😍
+
+⭐️ From [CaioAlvesJacinto](https://github.com/CaioAlvesJacinto)
 
 <!--
 **CaioAlvesJacinto/CaioAlvesJacinto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
