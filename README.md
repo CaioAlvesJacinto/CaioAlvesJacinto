@@ -1,7 +1,8 @@
-![Welcome](/profile-readme-github.png?raw=true)
-
 ### Hello, humans! 👋
 
+![Welcome](/profile-readme-github.png?raw=true)
+
+## About me
 My name is Caio Alves Jacinto and I'm student of Programming in Java and Python! Currently, I'm interning in a company of the professional replacement Recolokey - Coaching & Carreiras and, I work with automation and process development.
 
 ## Reach me
@@ -13,12 +14,7 @@ My name is Caio Alves Jacinto and I'm student of Programming in Java and Python!
 
 
 
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaioAlvesJacinto)](https://github.com/CaioAlvesJacinto/github-readme-stats)
-
-
+## Interesting stats
 ![Caio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CaioAlvesJacinto&show_icons=true&theme=dracula)
 
 ![Profile views](https://gpvc.arturio.dev/CaioAlvesJacinto)
