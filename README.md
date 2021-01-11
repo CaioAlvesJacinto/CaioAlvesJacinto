@@ -34,7 +34,7 @@ My name is Caio Alves Jacinto and I'm student of Programming in Java and Python!
 ## 🔔 Reach me
 [![Linkedin](https://img.shields.io/badge/-Caio%20Alves%20Jacinto-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/caioalvesjacinto/)](https://www.linkedin.com/in/caioalvesjacinto/)
 [![Github](https://img.shields.io/github/followers/CaioAlvesJacinto?label=Follow%20Me%21&style=social)](https://github.com/CaioAlvesJacinto)
-[![Instagram](https://img.shields.io/badge/-@caio.alves.17-red?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/caio.alves.17/)](https://www.instagram.com/caio.alves.17/)
+[![Instagram](https://img.shields.io/badge/-@caioalvesjacinto-red?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/caioalvesjacinto/)](https://www.instagram.com/caioalvesjacinto/)
 [![Mail](https://img.shields.io/badge/-caio.alves.1702@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=https://www.linkedin.com/in/caioalvesjacinto/)](mailto:caio.alves.1702@gmail.com)
 
 Thank u for your visit! 😍
