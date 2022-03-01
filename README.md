@@ -7,7 +7,7 @@ My name is Caio Alves Jacinto and I'm student of Programming in Java and Python!
 
 ## 🎓 What I know
 - **Competitive Programming**
-	- Some Python 🐍
+	- Some Python 3.0 🐍
 	- Some Java ☕
 	- Some HTML, CSS and JavaScript
 	- Some Angular 
