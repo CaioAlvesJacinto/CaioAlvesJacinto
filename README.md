@@ -9,6 +9,8 @@ My name is Caio Alves Jacinto and I'm student of Programming in Java and Python!
 - **Competitive Programming**
 	- Some Python 🐍
 	- Some Java ☕
+	- Some HTML, CSS and JavaScript
+	- Some Angular 
 - **Database**
 	- MySQL 🌐
 	- SQL Server ✅
@@ -18,7 +20,7 @@ My name is Caio Alves Jacinto and I'm student of Programming in Java and Python!
 - **API's**
 	- Wassenger 🔥
 	- ChatApi 💧
-  - JSON ❄
+  	- JSON ❄
 - **Business**
 	- Digital Marketing 🚀
 	- Sales 🏁
