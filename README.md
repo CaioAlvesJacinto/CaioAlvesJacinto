@@ -23,7 +23,6 @@ My name is Caio Alves Jacinto and I'm student of Programming in Java and Python!
   	- JSON ❄
 - **Business**
 	- Digital Marketing 🚀
-	- Sales 🏁
 
 ## 🤔 What I want to do next 
 - Become a CTO (Chief Technology Officer) 🛸
