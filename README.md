@@ -17,6 +17,7 @@ My name is Caio Alves Jacinto and I'm student of Programming in Java and Python!
 - **Microsoft Office 365**
 	- Excel, Word, Power Point 💚
 	- SharePoint, Outlook, Power Automate, Power Apps, One Note 💲
+	- Power Platform 💻
 - **API's**
 	- Wassenger 🔥
 	- ChatApi 💧
