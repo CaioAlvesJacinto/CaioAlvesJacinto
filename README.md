@@ -3,7 +3,7 @@
 ![Welcome](/profile-readme-github.png?raw=true)
 
 ## 🎥 About me 
-My name is Caio Alves Jacinto and I'm student of Programming in Java and Python! Currently, I'm interning in a company of the professional replacement Recolokey - Coaching & Carreiras and, I work with automation and process development.
+My name is Caio Alves Jacinto and I'm student of Programming in Java, Python and Web Development! Currently, I'm interning in a company of the professional replacement Recolokey - Coaching & Carreiras and, I work with automation and process development.
 
 ## 🎓 What I know
 - **Competitive Programming**
