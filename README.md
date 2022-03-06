@@ -9,7 +9,7 @@ My name is Caio Alves Jacinto and I'm student of Programming in Java, Python and
 - **Competitive Programming**
 	- Some Python 3.0 🐍
 	- Some Java ☕
-	- Some HTML, CSS and JavaScript
+	- Some HTML, CSS and JavaScript 🌐
 	- Some Angular 
 - **Database**
 	- MySQL 🌐
