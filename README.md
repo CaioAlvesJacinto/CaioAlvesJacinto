@@ -26,7 +26,6 @@ My name is Caio Alves Jacinto and I'm student of Programming in Java and Python!
 
 ## 🤔 What I want to do next 
 - Become a CTO (Chief Technology Officer) 🛸
-- Scrum Master
 - Leverage my company 🤖
 - Dive into AI and ML 🧠
 
